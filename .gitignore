@@ -14,3 +14,4 @@ genesis.json
 node/rpc-api/static/ast.ron
 documentation/book/**/*
 node_modules
+utils/paramfetch/parameters_test/
